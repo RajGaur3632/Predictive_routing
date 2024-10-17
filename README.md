@@ -30,7 +30,6 @@ The Emergency Routing System is a web-based application designed to provide opti
 - **OSMnx**: For downloading and manipulating OpenStreetMap data.
 - **NetworkX**: For graph-based routing algorithms.
 - **Matplotlib**: For data visualization.
-- **HERE API**: For accessing real-time traffic data.
 - **Google Colab**: Development environment.
 
 ## Installation
@@ -39,3 +38,4 @@ The Emergency Routing System is a web-based application designed to provide opti
    ```bash
    git clone https://github.com/RajGaur3632/Emergency-Routing-System.git
    cd Emergency-Routing-System
+
